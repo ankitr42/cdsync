@@ -1,0 +1,1 @@
+To run the program, execute "CD Sync Portable.exe" in the program installation folder.

@@ -1,0 +1,17 @@
+        internal void Show(FileTypeManager fTypeManager)
+        {
+            this.currentImageID = currentImageID;
+            
+            if (fTypeManager == null)
+                this.fTypeManager = new FileTypeManager();
+            else
+                this.fTypeManager = fTypeManager;
+
+            //if (basicSearch)
+            //    toolBtnBasicSearch_Click(new object(), EventArgs.Empty);
+            //else
+            //    toolBtnAdvancedSearch_Click(new object(), EventArgs.Empty);
+
+            base.Show();
+        }
+       */

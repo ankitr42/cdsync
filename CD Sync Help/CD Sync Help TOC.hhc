@@ -1,0 +1,74 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Introduction">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Introduction to CD Sync">
+			<param name="Local" value="introduction.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="The User Interface">
+			<param name="Local" value="ui.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="The Menubar and the Toolbar">
+			<param name="Local" value="menubar.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Managing Image Categories">
+			<param name="Local" value="manageCategories.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Creating New Images">
+			<param name="Local" value="creatingNewImages.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Editing File/Folder Descriptions">
+			<param name="Local" value="editingDescriptions.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="File, Folder and Image Properties Dialog Boxes">
+			<param name="Local" value="propertyBoxes.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Importing and Exporting Images">
+			<param name="Local" value="importExport.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Exporting File List">
+			<param name="Local" value="exportFileList.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Searching for Files/Folders">
+			<param name="Local" value="search.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Configuring Application Options">
+			<param name="Local" value="applicationOptions.htm">
+			</OBJECT>
+	</UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Information">
+		</OBJECT>
+	<UL>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="License Agreement">
+			<param name="Local" value="license.htm">
+			</OBJECT>
+		<LI> <OBJECT type="text/sitemap">
+			<param name="Name" value="Contact Author">
+			<param name="Local" value="contact.htm">
+			</OBJECT>
+	</UL>
+</UL>
+</BODY></HTML>

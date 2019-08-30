@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CD_Sync_Portable Version="1.0">
+    <ImageCategories>
+      <Category>
+		<Name>Backups</Name>
+		<Description>Put all your backup discs in this category.</Description>
+	  </Category>
+      <Category>
+		<Name>Documents</Name>
+		<Description>Put all your discs containing documents in here.</Description>
+	  </Category>
+      <Category>
+		<Name>E-Books</Name>
+		<Description>Put all those discs that comprise your e-book collection in this category.</Description>
+	  </Category>
+      <Category>
+		<Name>Games</Name>
+		<Description>Games! Yippee!!!</Description>
+	  </Category>
+      <Category>
+		<Name>Images/Photos</Name>
+		<Description>All your memorable moments and, of course, your wallpaper collection, go in here."</Description>
+	  </Category>
+      <Category>
+		<Name>Mixed Content</Name>
+		<Description>Discs with mixed content go in here.</Description>
+	  </Category>
+      <Category>
+		<Name>Movies</Name>
+		<Description>Put that HUGE movie collection here.</Description>
+	  </Category>
+      <Category>
+		<Name>Music</Name>
+		<Description>All your discs containing music, reside here.</Description>
+	  </Category>
+      <Category>
+		<Name>Other Multimedia Content</Name>
+		<Description>Any other multimedia content may be put here.</Description>
+	  </Category>
+      <Category>
+		<Name>Software</Name>
+		<Description>This one can be used to house your software collection."</Description>
+	  </Category>
+    </ImageCategories>
+</CD_Sync_Portable>

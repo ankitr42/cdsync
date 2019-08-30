@@ -1,0 +1,16 @@
+[OPTIONS]
+
+[FILES]
+..\CD Sync\bin\x86\Help\applicationOptions.htm
+..\CD Sync\bin\x86\Help\contact.htm
+..\CD Sync\bin\x86\Help\creatingNewImages.htm
+..\CD Sync\bin\x86\Help\editingDescriptions.htm
+..\CD Sync\bin\x86\Help\exportFileList.htm
+..\CD Sync\bin\x86\Help\importExport.htm
+..\CD Sync\bin\x86\Help\introduction.htm
+..\CD Sync\bin\x86\Help\license.htm
+..\CD Sync\bin\x86\Help\manageCategories.htm
+..\CD Sync\bin\x86\Help\menubar.htm
+..\CD Sync\bin\x86\Help\propertyBoxes.htm
+..\CD Sync\bin\x86\Help\search.htm
+..\CD Sync\bin\x86\Help\ui.htm

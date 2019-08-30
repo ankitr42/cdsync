@@ -1,0 +1,27 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=CD Sync Help.chm
+Contents file=CD Sync Help TOC.hhc
+Default topic=introduction.htm
+Display compile progress=No
+Language=0x409 English (United States)
+Title=CD Sync Help
+
+
+[FILES]
+applicationOptions.htm
+contact.htm
+creatingNewImages.htm
+editingDescriptions.htm
+exportFileList.htm
+importExport.htm
+introduction.htm
+license.htm
+manageCategories.htm
+menubar.htm
+propertyBoxes.htm
+search.htm
+ui.htm
+
+[INFOTYPES]
+

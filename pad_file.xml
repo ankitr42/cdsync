@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.01</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.0.1.38 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>Ankit Rajpoot</Company_Name>
+		<Address_1 />
+		<Address_2 />
+		<City_Town>Gwalior</City_Town>
+		<State_Province>MP</State_Province>
+		<Zip_Postal_Code>474001</Zip_Postal_Code>
+		<Country>India</Country>
+		<Company_WebSite_URL>http://ankitr.fileave.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>Ankit</Author_First_Name>
+			<Author_Last_Name>Rajpoot</Author_Last_Name>
+			<Author_Email>ankitr.42@gmail.com</Author_Email>
+			<Contact_First_Name>Ankit</Contact_First_Name>
+			<Contact_Last_Name>Rajpoot</Contact_Last_Name>
+			<Contact_Email>ankitr.42@gmail.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>ankitr.42@gmail.com</Sales_Email>
+			<Support_Email>ankitr.42@gmail.com</Support_Email>
+			<General_Email>ankitr.42@gmail.com</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>CD Sync Portable</Program_Name>
+		<Program_Version>1.0</Program_Version>
+		<Program_Release_Month>06</Program_Release_Month>
+		<Program_Release_Day>19</Program_Release_Day>
+		<Program_Release_Year>2010</Program_Release_Year>
+		<Program_Cost_Dollars>0</Program_Cost_Dollars>
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>New Release</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win98,WinME,Windows2000,WinXP,Windows2003,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info />
+		<Program_Specific_Category>Utilities</Program_Specific_Category>
+		<Program_Category_Class>System Utilities::File &amp; Disk Management</Program_Category_Class>
+		<Program_System_Requirements>.Net Framework v2.0 or above</Program_System_Requirements>
+		<File_Info>
+			<File_Size_Bytes>1762229</File_Size_Bytes>
+			<File_Size_K>1720</File_Size_K>
+			<File_Size_MB>1.68</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>cd, dvd, image, sync, catalog, catalogue, offline browsing, imaging, ankit, rajpoot, ankit rajpoot, cd image, cd catalog, dvd cataloging, cd cataloging, portable</Keywords>
+			<Char_Desc_45>A portable disk cataloging application.</Char_Desc_45>
+			<Char_Desc_80>A cataloging utility with which you can catalog your disks for offline search.</Char_Desc_80>
+			<Char_Desc_250>CD Sync Portable is a free disk cataloging tool with which you can catalog all your disks for offline browsing and searching. The program is portable which means that you can install it in a flash drive and carry your catalog with you wherever you go</Char_Desc_250>
+			<Char_Desc_450>If you want to catalog your whole CD/DVD/any other media collection for offline browsing and searching, CD Sync Portable is for you. CD Sync Portable is a free disk cataloging tool with which you can catalog all your disks for offline browsing and searching. The program is portable which means that you can install it in a flash drive and carry your catalog with you wherever you go. The program features a clean windows explorer like interface.</Char_Desc_450>
+			<Char_Desc_2000>If you are tired of putting in dozens of CDs/DVDs or any other media every time you need to find a file, or if you're just not happy with the speed and capabilities of Windows file search for searching local files, CD Sync Portable is for you. It allows you to catalog your CDs/DVDs/Flash Drives/Folders etc. With CD Sync Portable, you get the ability to browse and search your data, even when the source media is not available. Just catalog all your disks and you will notice how easy it is to find the file you want.
+
+Features:
+
+1. Portability. This means that you can carry your whole catalog wherever you go. Just unzip CD Sync Portable in a flash drive or external HDD and start creating portable catalogs that you can carry with you.
+
+2. Stores extended properties about each file. CD Sync Portable can store above 25 types of properties about each file. This includes:
+ * Standard file properties, like name, size, and date(s) etc.
+ * Music properties, like artist name, album title, album year, and song title etc.
+ * Document properties, like company, subject, and category etc.
+ * Video and image properties, like width and height.
+ * File icons for .ico, .exe, .scr, .cur files.
+
+3. Incorporates powerful searching features that allow you to search for a file or folder in multiple catalogs simultaneously. Also features content specific search capability (for ex. You can search your music collection for all songs by ‘Linkin Park’.)
+
+4. If the source media of a catalog is available, the built-in previewer allows you to preview almost all major types of audio, video, and image files contained in the catalog.
+
+5. Features a clean and friendly Windows Explorer like interface. So that your time is not wasted figuring out how to use the program.
+
+6. Allows you to export and import your catalogs, in case you’re migrating to new PC. This feature also comes in handy in case of data loss; you can always restore your catalogs from the backup copy.</Char_Desc_2000>
+		</English>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://ankitr.fileave.com</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>http://ankitr.fileave.com/CD_Sync_Portable/screenshot1_large.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://ankitr.fileave.com/CD_Sync_Portable/appIcon_32x32x32.gif</Application_Icon_URL>
+			<Application_XML_File_URL>http://ankitr.fileave.com/CD_Sync_Portable/pad_file.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://ankitr.fileave.com/CD_Sync_Portable/CSP_Install.exe</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions />
+		<EULA />
+	</Permissions>
+</XML_DIZ_INFO>
